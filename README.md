@@ -1,0 +1,2 @@
+# SeleniumFullManual
+Selenium Полное руководство
