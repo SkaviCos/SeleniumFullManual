@@ -87,3 +87,4 @@ ENV/
 
 # Rope project settings
 .ropeproject
+java-example/.idea/misc.xml
